@@ -1,0 +1,4 @@
+interface IReset
+{
+	void resetState();
+}

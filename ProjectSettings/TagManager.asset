@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - tooltipEnabler
+  - test
+  - death
+  - announcer
+  - room
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: bg
+    uniqueID: 1736999889
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: glow
+    uniqueID: 3491294275
+    locked: 0
+  - name: furniture
+    uniqueID: 2631324933
+    locked: 0
+  - name: UI
+    uniqueID: 2301288551
+    locked: 0
+  - name: death
+    uniqueID: 3092503427
+    locked: 0
+  - name: menu
+    uniqueID: 475987639
+    locked: 0
